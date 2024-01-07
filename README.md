@@ -29,7 +29,7 @@ You can also run `node .` to skip the build step.
 
 Open http://127.0.0.1:3000 in your browser.
 
-## Rebuild the project
+## Rebuild the projectt
 
 To incrementally build the project:
 
